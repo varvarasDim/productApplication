@@ -1,8 +1,9 @@
 Three projects are included
 
-- FrontEndApplication 
-- IntegrationTests
-- Product
+	- FrontEndApplication 
+	- IntegrationTests
+	- Product
+
 
 - FrontEndApplication is a Vue.js application that shows the products
 	In order to run it you need to have the Product project running given that it is the backend of the application.
