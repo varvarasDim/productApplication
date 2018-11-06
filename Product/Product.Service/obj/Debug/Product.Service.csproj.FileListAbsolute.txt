@@ -1,0 +1,18 @@
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service\bin\Debug\Product.Service.dll
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service\bin\Debug\Product.Service.pdb
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service\bin\Debug\Product.DataAccess.dll
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service\bin\Debug\Product.DataAccess.pdb
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service\obj\Debug\Product.Service.csprojResolveAssemblyReference.cache
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service\obj\Debug\Product.Service.dll
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service\obj\Debug\Product.Service.pdb
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service\bin\Debug\Autofac.dll
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service\bin\Debug\Autofac.xml
+C:\Users\dimivarv308\Desktop\Product\Product.Service\bin\Debug\Product.Service.dll
+C:\Users\dimivarv308\Desktop\Product\Product.Service\bin\Debug\Product.Service.pdb
+C:\Users\dimivarv308\Desktop\Product\Product.Service\bin\Debug\Autofac.dll
+C:\Users\dimivarv308\Desktop\Product\Product.Service\bin\Debug\Product.DataAccess.dll
+C:\Users\dimivarv308\Desktop\Product\Product.Service\bin\Debug\Product.DataAccess.pdb
+C:\Users\dimivarv308\Desktop\Product\Product.Service\bin\Debug\Autofac.xml
+C:\Users\dimivarv308\Desktop\Product\Product.Service\obj\Debug\Product.Service.csprojResolveAssemblyReference.cache
+C:\Users\dimivarv308\Desktop\Product\Product.Service\obj\Debug\Product.Service.dll
+C:\Users\dimivarv308\Desktop\Product\Product.Service\obj\Debug\Product.Service.pdb

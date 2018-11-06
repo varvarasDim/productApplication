@@ -1,0 +1,46 @@
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\Product.Service.UnitTets.dll
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\Product.Service.UnitTets.pdb
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\Castle.Core.dll
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\Moq.dll
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\nunit.framework.dll
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\Product.DataAccess.dll
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\Product.Service.dll
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\System.Threading.Tasks.Extensions.dll
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\System.ValueTuple.dll
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\Autofac.dll
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\Product.DataAccess.pdb
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\Product.Service.pdb
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\Castle.Core.xml
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\Moq.pdb
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\Moq.xml
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\nunit.framework.pdb
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\nunit.framework.xml
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\System.Threading.Tasks.Extensions.xml
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\System.ValueTuple.xml
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\bin\Debug\Autofac.xml
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\obj\Debug\Product.Service.UnitTets.csprojResolveAssemblyReference.cache
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\obj\Debug\Product.Service.UnitTets.dll
+c:\Users\dimivarv308\documents\visual studio 2015\Projects\Product\Product.Service.UnitTets\obj\Debug\Product.Service.UnitTets.pdb
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\Product.Service.UnitTets.dll
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\Product.Service.UnitTets.pdb
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\Castle.Core.dll
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\Moq.dll
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\nunit.framework.dll
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\Product.DataAccess.dll
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\Product.Service.dll
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\System.ValueTuple.dll
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\Autofac.dll
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\Product.DataAccess.pdb
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\Product.Service.pdb
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\Castle.Core.xml
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\Moq.pdb
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\Moq.xml
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\nunit.framework.pdb
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\nunit.framework.xml
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\System.ValueTuple.xml
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\bin\Debug\Autofac.xml
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\obj\Debug\Product.Service.UnitTets.csprojResolveAssemblyReference.cache
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\obj\Debug\Product.Service.UnitTets.dll
+C:\Users\dimivarv308\Desktop\Product\Product.Service.UnitTets\obj\Debug\Product.Service.UnitTets.pdb
